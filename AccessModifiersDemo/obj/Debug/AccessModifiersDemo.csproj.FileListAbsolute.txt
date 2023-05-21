@@ -1,0 +1,12 @@
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiers.exe
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiers.pdb
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\bin\Debug\AccessModifiers.exe.config
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CopyComplete
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\berka\Desktop\C#\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb

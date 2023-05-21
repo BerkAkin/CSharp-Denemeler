@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\Events\bin\Debug\Events.exe.config
+C:\Users\berka\Desktop\C#\Events\bin\Debug\Events.exe
+C:\Users\berka\Desktop\C#\Events\bin\Debug\Events.pdb
+C:\Users\berka\Desktop\C#\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\Events\obj\Debug\Events.exe
+C:\Users\berka\Desktop\C#\Events\obj\Debug\Events.pdb

@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\InterfacesV2\bin\Debug\InterfacesV2.exe.config
+C:\Users\berka\Desktop\C#\InterfacesV2\bin\Debug\InterfacesV2.exe
+C:\Users\berka\Desktop\C#\InterfacesV2\bin\Debug\InterfacesV2.pdb
+C:\Users\berka\Desktop\C#\InterfacesV2\obj\Debug\InterfacesV2.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\InterfacesV2\obj\Debug\InterfacesV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\InterfacesV2\obj\Debug\InterfacesV2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\InterfacesV2\obj\Debug\InterfacesV2.exe
+C:\Users\berka\Desktop\C#\InterfacesV2\obj\Debug\InterfacesV2.pdb

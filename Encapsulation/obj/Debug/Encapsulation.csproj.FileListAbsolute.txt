@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\berka\Desktop\C#\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\berka\Desktop\C#\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\berka\Desktop\C#\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\berka\Desktop\C#\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\berka\Desktop\C#\Constructors\bin\Debug\Constructors.exe
+C:\Users\berka\Desktop\C#\Constructors\bin\Debug\Constructors.pdb
+C:\Users\berka\Desktop\C#\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\Constructors\obj\Debug\Constructors.exe
+C:\Users\berka\Desktop\C#\Constructors\obj\Debug\Constructors.pdb

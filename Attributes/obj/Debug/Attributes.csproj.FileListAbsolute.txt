@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\Attributes\obj\Debug\Attributes.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\berka\Desktop\C#\Attributes\bin\Debug\Attributes.exe
+C:\Users\berka\Desktop\C#\Attributes\bin\Debug\Attributes.pdb
+C:\Users\berka\Desktop\C#\Attributes\obj\Debug\Attributes.exe
+C:\Users\berka\Desktop\C#\Attributes\obj\Debug\Attributes.pdb

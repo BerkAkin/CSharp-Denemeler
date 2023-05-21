@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\berka\Desktop\C#\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\berka\Desktop\C#\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\berka\Desktop\C#\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\berka\Desktop\C#\AbstractClasses\obj\Debug\AbstractClasses.pdb

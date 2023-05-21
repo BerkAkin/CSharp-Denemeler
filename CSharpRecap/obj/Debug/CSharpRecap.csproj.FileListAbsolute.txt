@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\CSharpRecap\obj\Debug\CSharpRecap.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\CSharpRecap\obj\Debug\CSharpRecap.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\CSharpRecap\obj\Debug\CSharpRecap.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\CSharpRecap\bin\Debug\CSharpRecap.exe.config
+C:\Users\berka\Desktop\C#\CSharpRecap\bin\Debug\CSharpRecap.exe
+C:\Users\berka\Desktop\C#\CSharpRecap\bin\Debug\CSharpRecap.pdb
+C:\Users\berka\Desktop\C#\CSharpRecap\obj\Debug\CSharpRecap.exe
+C:\Users\berka\Desktop\C#\CSharpRecap\obj\Debug\CSharpRecap.pdb

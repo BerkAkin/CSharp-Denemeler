@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\berka\Desktop\C#\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\berka\Desktop\C#\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\berka\Desktop\C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\berka\Desktop\C#\VirtualMethods\obj\Debug\VirtualMethods.pdb

@@ -1,0 +1,8 @@
+C:\Users\berka\Desktop\C#\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\berka\Desktop\C#\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\berka\Desktop\C#\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\berka\Desktop\C#\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\C#\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\C#\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C#\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\berka\Desktop\C#\AccessModifiers\obj\Debug\AccessModifiers.pdb
